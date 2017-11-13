@@ -1,2 +1,2 @@
 Jak moge szybko w vimie wrzucic sobie liste pythonowych metod tak o? (i sformatowac w Vim)
-Jak dupnac cos tak o dodac do pytanek moge sobie? 
+Jak szybko cos tak o dodac do pytanek moge sobie? 
